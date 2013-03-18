@@ -1,15 +1,14 @@
-# Forked
+Forked - Forked
+===============
 
-A late night project inspired by the forking event at block 225430.
+I forked this fork because the original site went down shortly after launch, but it said to fork it... So I did.
 
-While similar forking events may be prevented by the latest bitcoin client, this webpage may be helpful when single-block forks occur.
-
-## Usage
+![xzibit](http://cdn.memegenerator.net/instances/400x/36344396.jpg)
 
 See if the latest block is forked:
- - [istheblockchainforked.com](http://istheblockchainforked.com)
+ - [blockchainforked.herokuapp.com](blockchainforked.herokuapp.com)
 
 See if the chain was forked at a certain height
- - [istheblockchainforked.com/225430](http://istheblockchainforked.com/225430)
+ - [blockchainforked.herokuapp.com/225430](http://blockchainforked.herokuapp.com/225430)
 
-— by James Romeril
+That's pretty much it.

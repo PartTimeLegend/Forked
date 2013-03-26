@@ -12,3 +12,5 @@ See if the chain was forked at a certain height
  - [blockchainforked.herokuapp.com/225430](http://blockchainforked.herokuapp.com/225430)
 
 That's pretty much it.
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/Forked.png?branch=master)](https://travis-ci.org/PartTimeLegend/Forked)

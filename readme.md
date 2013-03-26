@@ -13,4 +13,4 @@ See if the chain was forked at a certain height
 
 That's pretty much it.
 
-[![Build Status](https://travis-ci.org/PartTimeLegend/Forked.png?branch=master)](https://travis-ci.org/PartTimeLegend/Forked)
+[![Build Status](https://travis-ci.org/PartTimeLegend/Forked.png?branch=master)](https://travis-ci.org/PartTimeLegend/Forked) [![Dependency Status](https://gemnasium.com/PartTimeLegend/Forked.png)](https://gemnasium.com/PartTimeLegend/Forked)

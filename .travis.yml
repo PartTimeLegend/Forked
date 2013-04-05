@@ -8,4 +8,3 @@ irc: "rowling.freenode.net#parttimelegend"
 email:
     on_success: never
     on_failure: never
-script: bundle install
